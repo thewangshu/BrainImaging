@@ -1,2 +1,2 @@
 # BrainImaging
-Course by Dr. Ayan Sengupta at IIIT Gandhinagar
+Course by Dr. Ayan Sengupta at IIT Gandhinagar
