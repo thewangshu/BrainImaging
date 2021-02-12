@@ -1,5 +1,5 @@
 ### image processing python codes
-
+#:/usr/bin/python
 #import statement blocks
 import matplotlib.pyplot as plt
 from scipy import misc, ndimage
