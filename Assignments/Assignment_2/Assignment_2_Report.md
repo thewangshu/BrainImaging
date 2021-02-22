@@ -4,7 +4,7 @@
   ```bash
   (512, 512)
   ```
-- Using Reverse Greyscale Colourmap on the original image and it viewing it :
+- Using Reverse Greyscale Colourmap on the original image and viewing it :
 ![Image Description](https://github.com/thewangshu/BrainImaging/blob/main/Assignments/RGS_Brain.png)
 - Historgram plot of the original image :
 ```bash
