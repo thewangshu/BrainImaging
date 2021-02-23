@@ -1,9 +1,6 @@
 #Importing necessary libraries
 import matplotlib.pyplot as plt
-import numpy as np
-
-#Importing libraries necessary for Gaussian Smoothing
-from scipy import misc,ndimage
+from scipy import ndimage
 
 #Reading given image ("Brain.jpg") into array
 img_array=plt.imread("Brain.jpg")
