@@ -1,4 +1,4 @@
-# Given below, we can find all the necessary outputs and return values from Assignment_2.py that we have been instructed to generate and report.
+# Given below, we can find all the necessary plots and outputs from Assignment_2.py that we have been instructed to generate and report.
 
 - Dimensions of the Image provided :
   ```bash
