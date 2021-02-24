@@ -4,10 +4,8 @@
   ```bash
   (512, 512)
   ```
-- Using Reverse Greyscale Colourmap on the original image and viewing it :
+- Using Reverse Greyscale Colourmap on the original image and Histogram plot of the original image :
 ![Image Description](https://github.com/thewangshu/BrainImaging/blob/main/Assignments/RGS_Brain.png)
-
-- Histogram plot of the original image : 
 ![Image Description](https://github.com/thewangshu/BrainImaging/blob/main/Assignments/RGS_Brain_Hist.png)
 
 - Image after performing Gaussian smoothing with a sigma = 05 and Histogram of the same :
