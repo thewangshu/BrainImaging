@@ -10,7 +10,6 @@
 - Histogram plot of the original image : 
 ![Image Description](https://github.com/thewangshu/BrainImaging/blob/main/Assignments/RGS_Brain_Hist.png)
 
-
 - Image after performing Gaussian smoothing with a sigma = 05 and Histogram of the same :
 ![Image Description](https://github.com/thewangshu/BrainImaging/blob/main/Assignments/sigma_05.png)
 ![Image Description](https://github.com/thewangshu/BrainImaging/blob/main/Assignments/sigma_05_hist.png)
