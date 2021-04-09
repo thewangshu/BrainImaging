@@ -1,4 +1,5 @@
-# The following items can be found in this repository pertaining to Assignment 3 of the course "Special Topic in Cognitve Science : Brain Imaging Methods" at IIT Gandhinagar.
+# This repository consists all that one needs to run a behavioural experiment (Simon Task). It was created using Psychopy 3 (v2020.2.10) as Assignment 3 of the course "Special Topic in Cognitve Science : Brain Imaging Methods", taught at IIT Gandhinagar by Dr. Ayan Sengupta. Following are the items used to successfuly create the same :
+
 
 - **Images** : Contains all the various priming stimulus used for Positive and negative influence. The images named "Happy" refer to the ones used as Positive Emotional Influence
 while those named "Sad" were used as negative influence.
