@@ -1,0 +1,672 @@
+1.4444 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+19.3570 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+21.8985 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0., 0., 0.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001F5D201B0F0>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001F5D1E6E898>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+21.8988 	EXP 	window1: mouseVisible = True
+21.8989 	EXP 	window1: recordFrameIntervals = False
+22.0644 	EXP 	window1: recordFrameIntervals = True
+22.2476 	EXP 	window1: recordFrameIntervals = False
+23.1035 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.1043 	WARNING 	Requested image 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad' not found but similar filename 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad.png' exists. This will be used instead but changing the filename is advised.
+23.3635 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+23.3644 	WARNING 	Requested image 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad_1' not found but similar filename 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad_1.png' exists. This will be used instead but changing the filename is advised.
+23.4269 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+23.4276 	WARNING 	Requested image 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad_2' not found but similar filename 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad_2.png' exists. This will be used instead but changing the filename is advised.
+23.4927 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+23.4934 	WARNING 	Requested image 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad_3' not found but similar filename 'C:\\Users\\Devangshu Nandi\\Documents\\IITGN\\Semester 2\\Brain Imaging\\Assignment_3\\Images\\Sad_3.png' exists. This will be used instead but changing the filename is advised.
+23.8787 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+23.9325 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+23.9409 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='height', win=Window(...), wrapWidth=1)
+23.9495 	EXP 	Created left_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='left_stim', opacity=1.0, ori=0, pos=array([-0.5,  0. ]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+23.9576 	EXP 	Created right_stim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='right_stim', opacity=1.0, ori=0, pos=array([0.5, 0. ]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+23.9606 	EXP 	Created ITI = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='ITI', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='+', units='height', win=Window(...), wrapWidth=1)
+24.1386 	EXP 	text: autoDraw = True
+38.9914 	EXP 	text: autoDraw = False
+38.9914 	EXP 	image: autoDraw = True
+40.9912 	EXP 	image: autoDraw = False
+40.9912 	EXP 	image_2: autoDraw = True
+42.9900 	EXP 	image_2: autoDraw = False
+42.9900 	EXP 	image_3: autoDraw = True
+45.0086 	EXP 	image_3: autoDraw = False
+45.0086 	EXP 	image_4: autoDraw = True
+46.9894 	EXP 	image_4: autoDraw = False
+46.9894 	EXP 	text_2: autoDraw = True
+67.0670 	EXP 	Imported simon_task_order.csv as conditions, 4 conditions, 2 params
+67.0673 	EXP 	Created sequence: sequential, trialTypes=4, nReps=10, seed=None
+67.0679 	EXP 	New trial (rep=0, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+67.0849 	EXP 	text_2: autoDraw = False
+67.0849 	EXP 	left_stim: text = 'X'
+67.0849 	EXP 	right_stim: text = ''
+67.0849 	EXP 	fixation_cross: autoDraw = True
+67.0849 	EXP 	left_stim: autoDraw = True
+67.0849 	EXP 	right_stim: autoDraw = True
+68.0661 	EXP 	ITI: autoDraw = True
+68.0987 	EXP 	fixation_cross: autoDraw = False
+68.0987 	EXP 	left_stim: autoDraw = False
+68.0987 	EXP 	right_stim: autoDraw = False
+68.3532 	DATA 	Keypress: m
+69.0697 	EXP 	New trial (rep=0, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+69.0872 	EXP 	ITI: autoDraw = False
+69.0872 	EXP 	fixation_cross: autoDraw = False
+69.0872 	EXP 	left_stim: autoDraw = False
+69.0872 	EXP 	right_stim: autoDraw = False
+69.0872 	EXP 	ITI: autoDraw = False
+69.0872 	EXP 	left_stim: text = ''
+69.0872 	EXP 	right_stim: text = 'X'
+69.0872 	EXP 	fixation_cross: autoDraw = True
+69.0872 	EXP 	left_stim: autoDraw = True
+69.0872 	EXP 	right_stim: autoDraw = True
+69.6536 	DATA 	Keypress: m
+70.0810 	EXP 	ITI: autoDraw = True
+70.0976 	EXP 	fixation_cross: autoDraw = False
+70.0976 	EXP 	left_stim: autoDraw = False
+70.0976 	EXP 	right_stim: autoDraw = False
+71.0685 	EXP 	New trial (rep=0, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+71.0851 	EXP 	ITI: autoDraw = False
+71.0851 	EXP 	fixation_cross: autoDraw = False
+71.0851 	EXP 	left_stim: autoDraw = False
+71.0851 	EXP 	right_stim: autoDraw = False
+71.0851 	EXP 	ITI: autoDraw = False
+71.0851 	EXP 	left_stim: text = ''
+71.0851 	EXP 	right_stim: text = 'O'
+71.0851 	EXP 	fixation_cross: autoDraw = True
+71.0851 	EXP 	left_stim: autoDraw = True
+71.0851 	EXP 	right_stim: autoDraw = True
+71.5703 	DATA 	Keypress: z
+72.0645 	EXP 	ITI: autoDraw = True
+72.0976 	EXP 	fixation_cross: autoDraw = False
+72.0976 	EXP 	left_stim: autoDraw = False
+72.0976 	EXP 	right_stim: autoDraw = False
+73.0674 	EXP 	New trial (rep=0, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+73.0847 	EXP 	ITI: autoDraw = False
+73.0847 	EXP 	fixation_cross: autoDraw = False
+73.0847 	EXP 	left_stim: autoDraw = False
+73.0847 	EXP 	right_stim: autoDraw = False
+73.0847 	EXP 	ITI: autoDraw = False
+73.0847 	EXP 	left_stim: text = 'O'
+73.0847 	EXP 	right_stim: text = ''
+73.0847 	EXP 	fixation_cross: autoDraw = True
+73.0847 	EXP 	left_stim: autoDraw = True
+73.0847 	EXP 	right_stim: autoDraw = True
+73.7530 	DATA 	Keypress: z
+74.0639 	EXP 	ITI: autoDraw = True
+74.0964 	EXP 	fixation_cross: autoDraw = False
+74.0964 	EXP 	left_stim: autoDraw = False
+74.0964 	EXP 	right_stim: autoDraw = False
+75.0668 	EXP 	New trial (rep=1, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+75.0838 	EXP 	ITI: autoDraw = False
+75.0838 	EXP 	fixation_cross: autoDraw = False
+75.0838 	EXP 	left_stim: autoDraw = False
+75.0838 	EXP 	right_stim: autoDraw = False
+75.0838 	EXP 	ITI: autoDraw = False
+75.0838 	EXP 	left_stim: text = 'X'
+75.0838 	EXP 	right_stim: text = ''
+75.0838 	EXP 	fixation_cross: autoDraw = True
+75.0838 	EXP 	left_stim: autoDraw = True
+75.0838 	EXP 	right_stim: autoDraw = True
+75.7852 	DATA 	Keypress: m
+76.0628 	EXP 	ITI: autoDraw = True
+76.0955 	EXP 	fixation_cross: autoDraw = False
+76.0955 	EXP 	left_stim: autoDraw = False
+76.0955 	EXP 	right_stim: autoDraw = False
+77.0488 	EXP 	New trial (rep=1, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+77.0666 	EXP 	ITI: autoDraw = False
+77.0666 	EXP 	fixation_cross: autoDraw = False
+77.0666 	EXP 	left_stim: autoDraw = False
+77.0666 	EXP 	right_stim: autoDraw = False
+77.0666 	EXP 	ITI: autoDraw = False
+77.0666 	EXP 	left_stim: text = ''
+77.0666 	EXP 	right_stim: text = 'X'
+77.0666 	EXP 	fixation_cross: autoDraw = True
+77.0666 	EXP 	left_stim: autoDraw = True
+77.0666 	EXP 	right_stim: autoDraw = True
+77.6013 	DATA 	Keypress: m
+78.0454 	EXP 	ITI: autoDraw = True
+78.0783 	EXP 	fixation_cross: autoDraw = False
+78.0783 	EXP 	left_stim: autoDraw = False
+78.0783 	EXP 	right_stim: autoDraw = False
+79.0333 	EXP 	New trial (rep=1, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+79.0515 	EXP 	ITI: autoDraw = False
+79.0515 	EXP 	fixation_cross: autoDraw = False
+79.0515 	EXP 	left_stim: autoDraw = False
+79.0515 	EXP 	right_stim: autoDraw = False
+79.0515 	EXP 	ITI: autoDraw = False
+79.0515 	EXP 	left_stim: text = ''
+79.0515 	EXP 	right_stim: text = 'O'
+79.0515 	EXP 	fixation_cross: autoDraw = True
+79.0515 	EXP 	left_stim: autoDraw = True
+79.0515 	EXP 	right_stim: autoDraw = True
+79.5505 	DATA 	Keypress: z
+80.0448 	EXP 	ITI: autoDraw = True
+80.0607 	EXP 	fixation_cross: autoDraw = False
+80.0607 	EXP 	left_stim: autoDraw = False
+80.0607 	EXP 	right_stim: autoDraw = False
+81.0315 	EXP 	New trial (rep=1, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+81.0486 	EXP 	ITI: autoDraw = False
+81.0486 	EXP 	fixation_cross: autoDraw = False
+81.0486 	EXP 	left_stim: autoDraw = False
+81.0486 	EXP 	right_stim: autoDraw = False
+81.0486 	EXP 	ITI: autoDraw = False
+81.0486 	EXP 	left_stim: text = 'O'
+81.0486 	EXP 	right_stim: text = ''
+81.0486 	EXP 	fixation_cross: autoDraw = True
+81.0486 	EXP 	left_stim: autoDraw = True
+81.0486 	EXP 	right_stim: autoDraw = True
+81.4998 	DATA 	Keypress: z
+82.0275 	EXP 	ITI: autoDraw = True
+82.0606 	EXP 	fixation_cross: autoDraw = False
+82.0606 	EXP 	left_stim: autoDraw = False
+82.0606 	EXP 	right_stim: autoDraw = False
+83.0141 	EXP 	New trial (rep=2, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+83.0322 	EXP 	ITI: autoDraw = False
+83.0322 	EXP 	fixation_cross: autoDraw = False
+83.0322 	EXP 	left_stim: autoDraw = False
+83.0322 	EXP 	right_stim: autoDraw = False
+83.0322 	EXP 	ITI: autoDraw = False
+83.0322 	EXP 	left_stim: text = 'X'
+83.0322 	EXP 	right_stim: text = ''
+83.0322 	EXP 	fixation_cross: autoDraw = True
+83.0322 	EXP 	left_stim: autoDraw = True
+83.0322 	EXP 	right_stim: autoDraw = True
+83.5981 	DATA 	Keypress: m
+84.0252 	EXP 	ITI: autoDraw = True
+84.0426 	EXP 	fixation_cross: autoDraw = False
+84.0426 	EXP 	left_stim: autoDraw = False
+84.0426 	EXP 	right_stim: autoDraw = False
+85.0134 	EXP 	New trial (rep=2, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+85.0305 	EXP 	ITI: autoDraw = False
+85.0305 	EXP 	fixation_cross: autoDraw = False
+85.0305 	EXP 	left_stim: autoDraw = False
+85.0305 	EXP 	right_stim: autoDraw = False
+85.0305 	EXP 	ITI: autoDraw = False
+85.0305 	EXP 	left_stim: text = ''
+85.0305 	EXP 	right_stim: text = 'X'
+85.0305 	EXP 	fixation_cross: autoDraw = True
+85.0305 	EXP 	left_stim: autoDraw = True
+85.0305 	EXP 	right_stim: autoDraw = True
+85.5483 	DATA 	Keypress: m
+86.0097 	EXP 	ITI: autoDraw = True
+86.0423 	EXP 	fixation_cross: autoDraw = False
+86.0423 	EXP 	left_stim: autoDraw = False
+86.0423 	EXP 	right_stim: autoDraw = False
+87.0129 	EXP 	New trial (rep=2, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+87.0300 	EXP 	ITI: autoDraw = False
+87.0300 	EXP 	fixation_cross: autoDraw = False
+87.0300 	EXP 	left_stim: autoDraw = False
+87.0300 	EXP 	right_stim: autoDraw = False
+87.0300 	EXP 	ITI: autoDraw = False
+87.0300 	EXP 	left_stim: text = ''
+87.0300 	EXP 	right_stim: text = 'O'
+87.0300 	EXP 	fixation_cross: autoDraw = True
+87.0300 	EXP 	left_stim: autoDraw = True
+87.0300 	EXP 	right_stim: autoDraw = True
+87.5312 	DATA 	Keypress: z
+88.0092 	EXP 	ITI: autoDraw = True
+88.0416 	EXP 	fixation_cross: autoDraw = False
+88.0416 	EXP 	left_stim: autoDraw = False
+88.0416 	EXP 	right_stim: autoDraw = False
+89.0122 	EXP 	New trial (rep=2, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+89.0293 	EXP 	ITI: autoDraw = False
+89.0293 	EXP 	fixation_cross: autoDraw = False
+89.0293 	EXP 	left_stim: autoDraw = False
+89.0293 	EXP 	right_stim: autoDraw = False
+89.0293 	EXP 	ITI: autoDraw = False
+89.0293 	EXP 	left_stim: text = 'O'
+89.0293 	EXP 	right_stim: text = ''
+89.0293 	EXP 	fixation_cross: autoDraw = True
+89.0293 	EXP 	left_stim: autoDraw = True
+89.0293 	EXP 	right_stim: autoDraw = True
+89.6804 	DATA 	Keypress: z
+90.0087 	EXP 	ITI: autoDraw = True
+90.0416 	EXP 	fixation_cross: autoDraw = False
+90.0416 	EXP 	left_stim: autoDraw = False
+90.0416 	EXP 	right_stim: autoDraw = False
+91.0107 	EXP 	New trial (rep=3, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+91.0280 	EXP 	ITI: autoDraw = False
+91.0280 	EXP 	fixation_cross: autoDraw = False
+91.0280 	EXP 	left_stim: autoDraw = False
+91.0280 	EXP 	right_stim: autoDraw = False
+91.0280 	EXP 	ITI: autoDraw = False
+91.0280 	EXP 	left_stim: text = 'X'
+91.0280 	EXP 	right_stim: text = ''
+91.0280 	EXP 	fixation_cross: autoDraw = True
+91.0280 	EXP 	left_stim: autoDraw = True
+91.0280 	EXP 	right_stim: autoDraw = True
+91.4802 	DATA 	Keypress: z
+92.0075 	EXP 	ITI: autoDraw = True
+92.0400 	EXP 	fixation_cross: autoDraw = False
+92.0400 	EXP 	left_stim: autoDraw = False
+92.0400 	EXP 	right_stim: autoDraw = False
+93.0107 	EXP 	New trial (rep=3, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+93.0281 	EXP 	ITI: autoDraw = False
+93.0281 	EXP 	fixation_cross: autoDraw = False
+93.0281 	EXP 	left_stim: autoDraw = False
+93.0281 	EXP 	right_stim: autoDraw = False
+93.0281 	EXP 	ITI: autoDraw = False
+93.0281 	EXP 	left_stim: text = ''
+93.0281 	EXP 	right_stim: text = 'X'
+93.0281 	EXP 	fixation_cross: autoDraw = True
+93.0281 	EXP 	left_stim: autoDraw = True
+93.0281 	EXP 	right_stim: autoDraw = True
+93.5953 	DATA 	Keypress: m
+94.0072 	EXP 	ITI: autoDraw = True
+94.0400 	EXP 	fixation_cross: autoDraw = False
+94.0400 	EXP 	left_stim: autoDraw = False
+94.0400 	EXP 	right_stim: autoDraw = False
+95.0102 	EXP 	New trial (rep=3, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+95.0278 	EXP 	ITI: autoDraw = False
+95.0278 	EXP 	fixation_cross: autoDraw = False
+95.0278 	EXP 	left_stim: autoDraw = False
+95.0278 	EXP 	right_stim: autoDraw = False
+95.0278 	EXP 	ITI: autoDraw = False
+95.0278 	EXP 	left_stim: text = ''
+95.0278 	EXP 	right_stim: text = 'O'
+95.0278 	EXP 	fixation_cross: autoDraw = True
+95.0278 	EXP 	left_stim: autoDraw = True
+95.0278 	EXP 	right_stim: autoDraw = True
+95.5623 	DATA 	Keypress: z
+96.0226 	EXP 	ITI: autoDraw = True
+96.0390 	EXP 	fixation_cross: autoDraw = False
+96.0390 	EXP 	left_stim: autoDraw = False
+96.0390 	EXP 	right_stim: autoDraw = False
+97.0218 	EXP 	ITI: autoDraw = False
+97.0245 	EXP 	New trial (rep=3, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+97.0431 	EXP 	fixation_cross: autoDraw = False
+97.0431 	EXP 	left_stim: autoDraw = False
+97.0431 	EXP 	right_stim: autoDraw = False
+97.0431 	EXP 	ITI: autoDraw = False
+97.0431 	EXP 	left_stim: text = 'O'
+97.0431 	EXP 	right_stim: text = ''
+97.0431 	EXP 	fixation_cross: autoDraw = True
+97.0431 	EXP 	left_stim: autoDraw = True
+97.0431 	EXP 	right_stim: autoDraw = True
+97.6611 	DATA 	Keypress: z
+98.0222 	EXP 	ITI: autoDraw = True
+98.0550 	EXP 	fixation_cross: autoDraw = False
+98.0550 	EXP 	left_stim: autoDraw = False
+98.0550 	EXP 	right_stim: autoDraw = False
+99.0258 	EXP 	New trial (rep=4, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+99.0425 	EXP 	ITI: autoDraw = False
+99.0425 	EXP 	fixation_cross: autoDraw = False
+99.0425 	EXP 	left_stim: autoDraw = False
+99.0425 	EXP 	right_stim: autoDraw = False
+99.0425 	EXP 	ITI: autoDraw = False
+99.0425 	EXP 	left_stim: text = 'X'
+99.0425 	EXP 	right_stim: text = ''
+99.0425 	EXP 	fixation_cross: autoDraw = True
+99.0425 	EXP 	left_stim: autoDraw = True
+99.0425 	EXP 	right_stim: autoDraw = True
+99.5654 	DATA 	Keypress: m
+100.0247 	EXP 	ITI: autoDraw = True
+100.0577 	EXP 	fixation_cross: autoDraw = False
+100.0577 	EXP 	left_stim: autoDraw = False
+100.0577 	EXP 	right_stim: autoDraw = False
+101.0310 	EXP 	New trial (rep=4, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+101.0512 	EXP 	ITI: autoDraw = False
+101.0512 	EXP 	fixation_cross: autoDraw = False
+101.0512 	EXP 	left_stim: autoDraw = False
+101.0512 	EXP 	right_stim: autoDraw = False
+101.0512 	EXP 	ITI: autoDraw = False
+101.0512 	EXP 	left_stim: text = ''
+101.0512 	EXP 	right_stim: text = 'X'
+101.0512 	EXP 	fixation_cross: autoDraw = True
+101.0512 	EXP 	left_stim: autoDraw = True
+101.0512 	EXP 	right_stim: autoDraw = True
+101.9286 	DATA 	Keypress: m
+102.0383 	EXP 	ITI: autoDraw = True
+102.0553 	EXP 	fixation_cross: autoDraw = False
+102.0553 	EXP 	left_stim: autoDraw = False
+102.0553 	EXP 	right_stim: autoDraw = False
+103.0258 	EXP 	New trial (rep=4, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+103.0427 	EXP 	ITI: autoDraw = False
+103.0427 	EXP 	fixation_cross: autoDraw = False
+103.0427 	EXP 	left_stim: autoDraw = False
+103.0427 	EXP 	right_stim: autoDraw = False
+103.0427 	EXP 	ITI: autoDraw = False
+103.0427 	EXP 	left_stim: text = ''
+103.0427 	EXP 	right_stim: text = 'O'
+103.0427 	EXP 	fixation_cross: autoDraw = True
+103.0427 	EXP 	left_stim: autoDraw = True
+103.0427 	EXP 	right_stim: autoDraw = True
+103.5081 	DATA 	Keypress: z
+104.0356 	EXP 	ITI: autoDraw = True
+104.0524 	EXP 	fixation_cross: autoDraw = False
+104.0524 	EXP 	left_stim: autoDraw = False
+104.0524 	EXP 	right_stim: autoDraw = False
+105.0231 	EXP 	New trial (rep=4, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+105.0405 	EXP 	ITI: autoDraw = False
+105.0405 	EXP 	fixation_cross: autoDraw = False
+105.0405 	EXP 	left_stim: autoDraw = False
+105.0405 	EXP 	right_stim: autoDraw = False
+105.0405 	EXP 	ITI: autoDraw = False
+105.0405 	EXP 	left_stim: text = 'O'
+105.0405 	EXP 	right_stim: text = ''
+105.0405 	EXP 	fixation_cross: autoDraw = True
+105.0405 	EXP 	left_stim: autoDraw = True
+105.0405 	EXP 	right_stim: autoDraw = True
+105.6095 	DATA 	Keypress: z
+106.0190 	EXP 	ITI: autoDraw = True
+106.0516 	EXP 	fixation_cross: autoDraw = False
+106.0516 	EXP 	left_stim: autoDraw = False
+106.0516 	EXP 	right_stim: autoDraw = False
+107.0069 	EXP 	New trial (rep=5, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+107.0266 	EXP 	ITI: autoDraw = False
+107.0266 	EXP 	fixation_cross: autoDraw = False
+107.0266 	EXP 	left_stim: autoDraw = False
+107.0266 	EXP 	right_stim: autoDraw = False
+107.0266 	EXP 	ITI: autoDraw = False
+107.0266 	EXP 	left_stim: text = 'X'
+107.0266 	EXP 	right_stim: text = ''
+107.0266 	EXP 	fixation_cross: autoDraw = True
+107.0266 	EXP 	left_stim: autoDraw = True
+107.0266 	EXP 	right_stim: autoDraw = True
+107.5407 	DATA 	Keypress: m
+108.0196 	EXP 	ITI: autoDraw = True
+108.0352 	EXP 	fixation_cross: autoDraw = False
+108.0352 	EXP 	left_stim: autoDraw = False
+108.0352 	EXP 	right_stim: autoDraw = False
+109.0201 	EXP 	New trial (rep=5, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+109.0387 	EXP 	fixation_cross: autoDraw = False
+109.0387 	EXP 	left_stim: autoDraw = False
+109.0387 	EXP 	right_stim: autoDraw = False
+109.0387 	EXP 	ITI: autoDraw = False
+109.0387 	EXP 	left_stim: text = ''
+109.0387 	EXP 	right_stim: text = 'X'
+109.0387 	EXP 	fixation_cross: autoDraw = True
+109.0387 	EXP 	left_stim: autoDraw = True
+109.0387 	EXP 	right_stim: autoDraw = True
+109.5883 	DATA 	Keypress: m
+110.0182 	EXP 	ITI: autoDraw = True
+110.0509 	EXP 	fixation_cross: autoDraw = False
+110.0509 	EXP 	left_stim: autoDraw = False
+110.0509 	EXP 	right_stim: autoDraw = False
+111.0235 	EXP 	New trial (rep=5, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+111.0419 	EXP 	ITI: autoDraw = False
+111.0419 	EXP 	fixation_cross: autoDraw = False
+111.0419 	EXP 	left_stim: autoDraw = False
+111.0419 	EXP 	right_stim: autoDraw = False
+111.0419 	EXP 	ITI: autoDraw = False
+111.0419 	EXP 	left_stim: text = ''
+111.0419 	EXP 	right_stim: text = 'O'
+111.0419 	EXP 	fixation_cross: autoDraw = True
+111.0419 	EXP 	left_stim: autoDraw = True
+111.0419 	EXP 	right_stim: autoDraw = True
+111.5549 	DATA 	Keypress: z
+112.0336 	EXP 	ITI: autoDraw = True
+112.0500 	EXP 	fixation_cross: autoDraw = False
+112.0500 	EXP 	left_stim: autoDraw = False
+112.0500 	EXP 	right_stim: autoDraw = False
+113.0202 	EXP 	New trial (rep=5, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+113.0409 	EXP 	ITI: autoDraw = False
+113.0409 	EXP 	fixation_cross: autoDraw = False
+113.0409 	EXP 	left_stim: autoDraw = False
+113.0409 	EXP 	right_stim: autoDraw = False
+113.0409 	EXP 	ITI: autoDraw = False
+113.0409 	EXP 	left_stim: text = 'O'
+113.0409 	EXP 	right_stim: text = ''
+113.0409 	EXP 	fixation_cross: autoDraw = True
+113.0409 	EXP 	left_stim: autoDraw = True
+113.0409 	EXP 	right_stim: autoDraw = True
+114.0330 	EXP 	ITI: autoDraw = True
+114.0492 	EXP 	fixation_cross: autoDraw = False
+114.0492 	EXP 	left_stim: autoDraw = False
+114.0492 	EXP 	right_stim: autoDraw = False
+115.0199 	EXP 	New trial (rep=6, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+115.0371 	EXP 	ITI: autoDraw = False
+115.0371 	EXP 	fixation_cross: autoDraw = False
+115.0371 	EXP 	left_stim: autoDraw = False
+115.0371 	EXP 	right_stim: autoDraw = False
+115.0371 	EXP 	ITI: autoDraw = False
+115.0371 	EXP 	left_stim: text = 'X'
+115.0371 	EXP 	right_stim: text = ''
+115.0371 	EXP 	fixation_cross: autoDraw = True
+115.0371 	EXP 	left_stim: autoDraw = True
+115.0371 	EXP 	right_stim: autoDraw = True
+116.0157 	EXP 	ITI: autoDraw = True
+116.0217 	DATA 	Keypress: m
+116.0491 	EXP 	fixation_cross: autoDraw = False
+116.0491 	EXP 	left_stim: autoDraw = False
+116.0491 	EXP 	right_stim: autoDraw = False
+117.0021 	EXP 	New trial (rep=6, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+117.0190 	EXP 	ITI: autoDraw = False
+117.0190 	EXP 	fixation_cross: autoDraw = False
+117.0190 	EXP 	left_stim: autoDraw = False
+117.0190 	EXP 	right_stim: autoDraw = False
+117.0190 	EXP 	ITI: autoDraw = False
+117.0190 	EXP 	left_stim: text = ''
+117.0190 	EXP 	right_stim: text = 'X'
+117.0190 	EXP 	fixation_cross: autoDraw = True
+117.0190 	EXP 	left_stim: autoDraw = True
+117.0190 	EXP 	right_stim: autoDraw = True
+117.8043 	DATA 	Keypress: m
+117.9978 	EXP 	ITI: autoDraw = True
+118.0312 	EXP 	fixation_cross: autoDraw = False
+118.0312 	EXP 	left_stim: autoDraw = False
+118.0312 	EXP 	right_stim: autoDraw = False
+118.9861 	EXP 	New trial (rep=6, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+119.0056 	EXP 	ITI: autoDraw = False
+119.0056 	EXP 	fixation_cross: autoDraw = False
+119.0056 	EXP 	left_stim: autoDraw = False
+119.0056 	EXP 	right_stim: autoDraw = False
+119.0056 	EXP 	ITI: autoDraw = False
+119.0056 	EXP 	left_stim: text = ''
+119.0056 	EXP 	right_stim: text = 'O'
+119.0056 	EXP 	fixation_cross: autoDraw = True
+119.0056 	EXP 	left_stim: autoDraw = True
+119.0056 	EXP 	right_stim: autoDraw = True
+119.4864 	DATA 	Keypress: z
+119.9978 	EXP 	ITI: autoDraw = True
+120.0144 	EXP 	fixation_cross: autoDraw = False
+120.0144 	EXP 	left_stim: autoDraw = False
+120.0144 	EXP 	right_stim: autoDraw = False
+120.9992 	EXP 	New trial (rep=6, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+121.0179 	EXP 	fixation_cross: autoDraw = False
+121.0179 	EXP 	left_stim: autoDraw = False
+121.0179 	EXP 	right_stim: autoDraw = False
+121.0179 	EXP 	ITI: autoDraw = False
+121.0179 	EXP 	left_stim: text = 'O'
+121.0179 	EXP 	right_stim: text = ''
+121.0179 	EXP 	fixation_cross: autoDraw = True
+121.0179 	EXP 	left_stim: autoDraw = True
+121.0179 	EXP 	right_stim: autoDraw = True
+121.4030 	DATA 	Keypress: z
+121.9968 	EXP 	ITI: autoDraw = True
+122.0297 	EXP 	fixation_cross: autoDraw = False
+122.0297 	EXP 	left_stim: autoDraw = False
+122.0297 	EXP 	right_stim: autoDraw = False
+122.9841 	EXP 	New trial (rep=7, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+123.0008 	EXP 	ITI: autoDraw = False
+123.0008 	EXP 	fixation_cross: autoDraw = False
+123.0008 	EXP 	left_stim: autoDraw = False
+123.0008 	EXP 	right_stim: autoDraw = False
+123.0008 	EXP 	ITI: autoDraw = False
+123.0008 	EXP 	left_stim: text = 'X'
+123.0008 	EXP 	right_stim: text = ''
+123.0008 	EXP 	fixation_cross: autoDraw = True
+123.0008 	EXP 	left_stim: autoDraw = True
+123.0008 	EXP 	right_stim: autoDraw = True
+123.5520 	DATA 	Keypress: m
+123.9794 	EXP 	ITI: autoDraw = True
+124.0137 	EXP 	fixation_cross: autoDraw = False
+124.0137 	EXP 	left_stim: autoDraw = False
+124.0137 	EXP 	right_stim: autoDraw = False
+124.9664 	EXP 	New trial (rep=7, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+124.9836 	EXP 	ITI: autoDraw = False
+124.9836 	EXP 	fixation_cross: autoDraw = False
+124.9836 	EXP 	left_stim: autoDraw = False
+124.9836 	EXP 	right_stim: autoDraw = False
+124.9836 	EXP 	ITI: autoDraw = False
+124.9836 	EXP 	left_stim: text = ''
+124.9836 	EXP 	right_stim: text = 'X'
+124.9836 	EXP 	fixation_cross: autoDraw = True
+124.9836 	EXP 	left_stim: autoDraw = True
+124.9836 	EXP 	right_stim: autoDraw = True
+125.6177 	DATA 	Keypress: m
+125.9624 	EXP 	ITI: autoDraw = True
+125.9958 	EXP 	fixation_cross: autoDraw = False
+125.9958 	EXP 	left_stim: autoDraw = False
+125.9958 	EXP 	right_stim: autoDraw = False
+126.9485 	EXP 	New trial (rep=7, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+126.9660 	EXP 	ITI: autoDraw = False
+126.9660 	EXP 	fixation_cross: autoDraw = False
+126.9660 	EXP 	left_stim: autoDraw = False
+126.9660 	EXP 	right_stim: autoDraw = False
+126.9660 	EXP 	ITI: autoDraw = False
+126.9660 	EXP 	left_stim: text = ''
+126.9660 	EXP 	right_stim: text = 'O'
+126.9660 	EXP 	fixation_cross: autoDraw = True
+126.9660 	EXP 	left_stim: autoDraw = True
+126.9660 	EXP 	right_stim: autoDraw = True
+127.3990 	DATA 	Keypress: z
+127.9450 	EXP 	ITI: autoDraw = True
+127.9792 	EXP 	fixation_cross: autoDraw = False
+127.9792 	EXP 	left_stim: autoDraw = False
+127.9792 	EXP 	right_stim: autoDraw = False
+128.9318 	EXP 	New trial (rep=7, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+128.9517 	EXP 	ITI: autoDraw = False
+128.9517 	EXP 	fixation_cross: autoDraw = False
+128.9517 	EXP 	left_stim: autoDraw = False
+128.9517 	EXP 	right_stim: autoDraw = False
+128.9517 	EXP 	ITI: autoDraw = False
+128.9517 	EXP 	left_stim: text = 'O'
+128.9517 	EXP 	right_stim: text = ''
+128.9517 	EXP 	fixation_cross: autoDraw = True
+128.9517 	EXP 	left_stim: autoDraw = True
+128.9517 	EXP 	right_stim: autoDraw = True
+129.5005 	DATA 	Keypress: z
+129.9447 	EXP 	ITI: autoDraw = True
+129.9610 	EXP 	fixation_cross: autoDraw = False
+129.9610 	EXP 	left_stim: autoDraw = False
+129.9610 	EXP 	right_stim: autoDraw = False
+130.9312 	EXP 	New trial (rep=8, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+130.9485 	EXP 	ITI: autoDraw = False
+130.9485 	EXP 	fixation_cross: autoDraw = False
+130.9485 	EXP 	left_stim: autoDraw = False
+130.9485 	EXP 	right_stim: autoDraw = False
+130.9485 	EXP 	ITI: autoDraw = False
+130.9485 	EXP 	left_stim: text = 'X'
+130.9485 	EXP 	right_stim: text = ''
+130.9485 	EXP 	fixation_cross: autoDraw = True
+130.9485 	EXP 	left_stim: autoDraw = True
+130.9485 	EXP 	right_stim: autoDraw = True
+131.4671 	DATA 	Keypress: m
+131.9272 	EXP 	ITI: autoDraw = True
+131.9623 	EXP 	fixation_cross: autoDraw = False
+131.9623 	EXP 	left_stim: autoDraw = False
+131.9623 	EXP 	right_stim: autoDraw = False
+132.9307 	EXP 	New trial (rep=8, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+132.9475 	EXP 	ITI: autoDraw = False
+132.9475 	EXP 	fixation_cross: autoDraw = False
+132.9475 	EXP 	left_stim: autoDraw = False
+132.9475 	EXP 	right_stim: autoDraw = False
+132.9475 	EXP 	ITI: autoDraw = False
+132.9475 	EXP 	left_stim: text = ''
+132.9475 	EXP 	right_stim: text = 'X'
+132.9475 	EXP 	fixation_cross: autoDraw = True
+132.9475 	EXP 	left_stim: autoDraw = True
+132.9475 	EXP 	right_stim: autoDraw = True
+133.9265 	EXP 	ITI: autoDraw = True
+133.9596 	EXP 	fixation_cross: autoDraw = False
+133.9596 	EXP 	left_stim: autoDraw = False
+133.9596 	EXP 	right_stim: autoDraw = False
+134.0143 	DATA 	Keypress: m
+134.9129 	EXP 	New trial (rep=8, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+134.9303 	EXP 	ITI: autoDraw = False
+134.9303 	EXP 	fixation_cross: autoDraw = False
+134.9303 	EXP 	left_stim: autoDraw = False
+134.9303 	EXP 	right_stim: autoDraw = False
+134.9303 	EXP 	ITI: autoDraw = False
+134.9303 	EXP 	left_stim: text = ''
+134.9303 	EXP 	right_stim: text = 'O'
+134.9303 	EXP 	fixation_cross: autoDraw = True
+134.9303 	EXP 	left_stim: autoDraw = True
+134.9303 	EXP 	right_stim: autoDraw = True
+135.4821 	DATA 	Keypress: z
+135.9096 	EXP 	ITI: autoDraw = True
+135.9425 	EXP 	fixation_cross: autoDraw = False
+135.9425 	EXP 	left_stim: autoDraw = False
+135.9425 	EXP 	right_stim: autoDraw = False
+136.9120 	EXP 	New trial (rep=8, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+136.9292 	EXP 	ITI: autoDraw = False
+136.9292 	EXP 	fixation_cross: autoDraw = False
+136.9292 	EXP 	left_stim: autoDraw = False
+136.9292 	EXP 	right_stim: autoDraw = False
+136.9292 	EXP 	ITI: autoDraw = False
+136.9292 	EXP 	left_stim: text = 'O'
+136.9292 	EXP 	right_stim: text = ''
+136.9292 	EXP 	fixation_cross: autoDraw = True
+136.9292 	EXP 	left_stim: autoDraw = True
+136.9292 	EXP 	right_stim: autoDraw = True
+137.4310 	DATA 	Keypress: z
+137.9080 	EXP 	ITI: autoDraw = True
+137.9412 	EXP 	fixation_cross: autoDraw = False
+137.9412 	EXP 	left_stim: autoDraw = False
+137.9412 	EXP 	right_stim: autoDraw = False
+138.8945 	EXP 	New trial (rep=9, index=0): OrderedDict([('condition', 'incongruent'), ('stim', 'X')])
+138.9129 	EXP 	ITI: autoDraw = False
+138.9129 	EXP 	fixation_cross: autoDraw = False
+138.9129 	EXP 	left_stim: autoDraw = False
+138.9129 	EXP 	right_stim: autoDraw = False
+138.9129 	EXP 	ITI: autoDraw = False
+138.9129 	EXP 	left_stim: text = 'X'
+138.9129 	EXP 	right_stim: text = ''
+138.9129 	EXP 	fixation_cross: autoDraw = True
+138.9129 	EXP 	left_stim: autoDraw = True
+138.9129 	EXP 	right_stim: autoDraw = True
+139.4134 	DATA 	Keypress: m
+139.8906 	EXP 	ITI: autoDraw = True
+139.9230 	EXP 	fixation_cross: autoDraw = False
+139.9230 	EXP 	left_stim: autoDraw = False
+139.9230 	EXP 	right_stim: autoDraw = False
+140.8820 	EXP 	New trial (rep=9, index=1): OrderedDict([('condition', 'congruent'), ('stim', 'X')])
+140.8999 	EXP 	ITI: autoDraw = False
+140.8999 	EXP 	fixation_cross: autoDraw = False
+140.8999 	EXP 	left_stim: autoDraw = False
+140.8999 	EXP 	right_stim: autoDraw = False
+140.8999 	EXP 	ITI: autoDraw = False
+140.8999 	EXP 	left_stim: text = ''
+140.8999 	EXP 	right_stim: text = 'X'
+140.8999 	EXP 	fixation_cross: autoDraw = True
+140.8999 	EXP 	left_stim: autoDraw = True
+140.8999 	EXP 	right_stim: autoDraw = True
+141.3621 	DATA 	Keypress: m
+141.8909 	EXP 	ITI: autoDraw = True
+141.9055 	EXP 	fixation_cross: autoDraw = False
+141.9055 	EXP 	left_stim: autoDraw = False
+141.9055 	EXP 	right_stim: autoDraw = False
+142.8914 	EXP 	New trial (rep=9, index=2): OrderedDict([('condition', 'incongruent'), ('stim', 'O')])
+142.9085 	EXP 	fixation_cross: autoDraw = False
+142.9085 	EXP 	left_stim: autoDraw = False
+142.9085 	EXP 	right_stim: autoDraw = False
+142.9085 	EXP 	ITI: autoDraw = False
+142.9085 	EXP 	left_stim: text = ''
+142.9085 	EXP 	right_stim: text = 'O'
+142.9085 	EXP 	fixation_cross: autoDraw = True
+142.9085 	EXP 	left_stim: autoDraw = True
+142.9085 	EXP 	right_stim: autoDraw = True
+143.5107 	DATA 	Keypress: z
+143.8885 	EXP 	ITI: autoDraw = True
+143.9219 	EXP 	fixation_cross: autoDraw = False
+143.9219 	EXP 	left_stim: autoDraw = False
+143.9219 	EXP 	right_stim: autoDraw = False
+144.8767 	EXP 	New trial (rep=9, index=3): OrderedDict([('condition', 'congruent'), ('stim', 'O')])
+144.8941 	EXP 	ITI: autoDraw = False
+144.8941 	EXP 	fixation_cross: autoDraw = False
+144.8941 	EXP 	left_stim: autoDraw = False
+144.8941 	EXP 	right_stim: autoDraw = False
+144.8941 	EXP 	ITI: autoDraw = False
+144.8941 	EXP 	left_stim: text = 'O'
+144.8941 	EXP 	right_stim: text = ''
+144.8941 	EXP 	fixation_cross: autoDraw = True
+144.8941 	EXP 	left_stim: autoDraw = True
+144.8941 	EXP 	right_stim: autoDraw = True
+145.3446 	DATA 	Keypress: z
+145.8728 	EXP 	ITI: autoDraw = True
+145.9062 	EXP 	fixation_cross: autoDraw = False
+145.9062 	EXP 	left_stim: autoDraw = False
+145.9062 	EXP 	right_stim: autoDraw = False
+146.8882 	EXP 	ITI: autoDraw = False
+146.8882 	EXP 	fixation_cross: autoDraw = False
+146.8882 	EXP 	left_stim: autoDraw = False
+146.8882 	EXP 	right_stim: autoDraw = False
+146.8882 	EXP 	ITI: autoDraw = False
+146.9682 	EXP 	window1: mouseVisible = True
