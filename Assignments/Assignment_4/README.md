@@ -16,7 +16,7 @@
 - Brain Extraction
 ``
 /usr/local/fsl/bin/bet /mnt/c/Users/Devangshu_Nandi/Documents/IITGN/Semester2/Brain_Imaging/Classwork/fsl_course_data/fmri1/fluency_task/structural /mnt/c/Users/Devangshu_Nandi/Documents/IITGN/Semester2/Brain_Imaging/Classwork/fsl_course_data/fmri1/fluency_task/structural_brain_1  -f 0.5 -g 0
-``
+
 - Coregistration
 ``
 /usr/local/fsl/bin/flirt -in /mnt/c/Users/Devangshu_Nandi/Documents/IITGN/Semester2/Brain_Imaging/Classwork/fsl_course_data/fmri1/fluency_task.feat/mean_func.nii.gz -ref /mnt/c/Users/Devangshu_Nandi/Documents/IITGN/Semester2/Brain_Imaging/Classwork/fsl_course_data/fmri1/fluency_task/structural_brain_1.nii -out /mnt/c/Users/Devangshu_Nandi/Documents/IITGN/Semester2/Brain_Imaging/Classwork/fsl_course_data/fmri1/fluency_task/mean_func.nii.gz -omat /mnt/c/Users/Devangshu_Nandi/Documents/IITGN/Semester2/Brain_Imaging/Classwork/fsl_course_data/fmri1/fluency_task/mean_func.mat -bins 256 -cost corratio -searchrx -90 90 -searchry -90 90 -searchrz -90 90 -dof 12  -interp trilinear
