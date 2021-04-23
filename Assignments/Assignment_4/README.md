@@ -1,7 +1,7 @@
 # Given below are the files which were generated in order to successfully complete Assignment 4 :
 
 - Here is the link to the report : https://docs.google.com/document/d/1G_CVwDsURIJyQan3NSHUkyr4-hhqXVBb2wbn-bYbot8/edit?usp=sharing
-- Following are the files instructed to submit :
+- Following are the files submitted :
 1. **_design.fsf_** : Logs all the various parameters and variable selections during the design of the first level full FEAT analysis.
 2. **_thresh_zstat1.png_** : Screenshot of activation in the anatomical space during word generation
 3. **_thresh_zstat2.png_** : Screenshot of activation in the anatomical space during word generation
