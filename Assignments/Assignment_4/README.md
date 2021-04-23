@@ -1,4 +1,4 @@
-# Given below are a few of the important files and folders which were generated/used in order to successfully complete Assignment 4
+# Given below are the files which were generated in order to successfully complete Assignment 4 :
 
 - Here is the link to the report : https://docs.google.com/document/d/1G_CVwDsURIJyQan3NSHUkyr4-hhqXVBb2wbn-bYbot8/edit?usp=sharing
 - Following are the files instructed to submit :
