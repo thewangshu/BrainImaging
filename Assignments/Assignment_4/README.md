@@ -1,6 +1,6 @@
 # Given below are the files which were generated in order to successfully complete Assignment 4 :
 
-- Here is the link to the report : https://docs.google.com/document/d/1G_CVwDsURIJyQan3NSHUkyr4-hhqXVBb2wbn-bYbot8/edit?usp=sharing
+- Here is the link to the report : https://drive.google.com/file/d/1kJqblX8NdMkRzJnWrnyrdygWk2rC34Dc/view?usp=sharing
 - Following are the files submitted :
 1. **_design.fsf_** : Logs all the various parameters and variable selections during the design of the first level full FEAT analysis.
 2. **_mean_func.mat_** : Transformation matrix file generated during coregistration to move the activation to the anatomical space.
